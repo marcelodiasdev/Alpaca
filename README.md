@@ -1,2 +1,0 @@
-# Alpaca
-Criando uma alpaca 
